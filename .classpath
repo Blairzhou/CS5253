@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="assignment1a/image-crawler/src/main/java"/>
+	<classpathentry kind="src" path="assignment1a/image-crawler/src/test/java"/>
+	<classpathentry kind="lib" path="assignment1a/grader/apksigner.jar"/>
+	<classpathentry kind="lib" path="assignment1a/grader/test.jar"/>
+	<classpathentry kind="lib" path="assignment1a/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="assignment1a/plugin/edu/vanderbilt/grader/gradle-plugin/3.0.6.0/gradle-plugin-3.0.6.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="assignment1a/plugin/edu/vanderbilt/grader/gradle-plugin/3.0.6.0/gradle-plugin-3.0.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="assignment1a/plugin/edu/vanderbilt/grader/gradle-plugin/3.0.6.0/gradle-plugin-3.0.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
